@@ -6,3 +6,4 @@ First Git commit for a Git repo assignment!
 
 This is an edit for changing content requirement
 
+Updated from the local Kali VM
